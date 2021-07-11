@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "test",
+"features": [
+{ "type": "Feature", "properties": { "SrNo": 1, "Name": "Aghdam", "Lat": 39.99628851, "Long": 46.9299849 }, "geometry": { "type": "Point", "coordinates": [ 46.9299849, 39.99628851 ] } },
+{ "type": "Feature", "properties": { "SrNo": 2, "Name": "Stepanakert", "Lat": 39.821236, "Long": 46.754192 }, "geometry": { "type": "Point", "coordinates": [ 46.754192, 39.821236 ] } }
+]
+}
